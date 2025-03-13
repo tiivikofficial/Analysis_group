@@ -57,6 +57,7 @@ Risk categories:
     Medium Risk: Score 40-70
     Low Risk (Likely human): Score < 40
 
-📝 License
+## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
