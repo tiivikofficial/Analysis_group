@@ -1,0 +1,24 @@
+# Core dependencies
+telethon>=1.24.0
+python-dateutil>=2.8.2
+
+# Data analysis
+pandas>=1.4.0
+numpy>=1.22.0
+
+# Visualization
+matplotlib>=3.5.1
+seaborn>=0.11.2
+
+# Utilities
+tqdm>=4.64.0  # For progress bars
+pytz>=2022.1  # For timezone handling
+colorama>=0.4.4  # For colored terminal output
+
+# Optional analysis tools
+scikit-learn>=1.0.2  # For more advanced pattern detection
+nltk>=3.7  # For text analysis
+emoji>=1.7.0  # For emoji analysis in messages
+
+# Export formats
+openpyxl>=3.0.9  # For Excel export support
