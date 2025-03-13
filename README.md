@@ -27,7 +27,7 @@ This Python-based tool analyzes user behavior in Telegram groups to estimate the
 ## 📥 Installation
 
 1. Clone this repository:
-2. git clone https://github.com/tiivik/Analysis.git cd Analysis
+2. git clone https://github.com/tiivikofficial/Analysis_group.git
 3. 3. Install dependencies:
    4. 4. Obtain Telegram API credentials:
 - Visit [my.telegram.org](https://my.telegram.org)
@@ -35,11 +35,3 @@ This Python-based tool analyzes user behavior in Telegram groups to estimate the
 - Go to 'API development tools'
 - Create a new application
 - Note your API ID and API Hash
-
-## 💻 Usage
-
-1. Edit the `config.py` file and enter your Telegram API credentials:
-```python
-API_ID = 'your_api_id'
-API_HASH = 'your_api_hash'
-Run the analyzer: python3 Analysis_group.py
