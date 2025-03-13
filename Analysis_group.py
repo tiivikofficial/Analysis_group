@@ -7,9 +7,9 @@ from datetime import datetime
 import asyncio
 
 # Get these from my.telegram.org
-api_id = '1231026'
-api_hash = 'deeb4e706acf0ce2f11b7f3751ecf260'
-phone = '+989021712197'
+api_id = 'YOUR_API_ID'
+api_hash = 'YOUR_API_HASH'
+phone = 'YOUR_PHONE_NUMBER'
 
 # Calculate bot likelihood score
 def calculate_bot_score(user_data):
